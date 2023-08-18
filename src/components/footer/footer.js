@@ -3,7 +3,7 @@ import './footer.css';
 function Footer() {
   return (
     <div className='bl'>
-     <footer>Made with ❤️ by Abhishek Gupta,2023</footer> 
+     <footer>Made with ❤️ by Abhishek Gupta and Sanyam Sharma,2023</footer> 
     </div>
   )
 }
